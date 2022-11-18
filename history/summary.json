@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 1113,
-    "timeDay": 1113,
-    "timeWeek": 1113,
-    "timeMonth": 1113,
-    "timeYear": 1113,
+    "uptime": "95.46%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "95.46%",
+    "uptimeMonth": "95.46%",
+    "uptimeYear": "95.46%",
+    "time": 1073,
+    "timeDay": 1073,
+    "timeWeek": 1073,
+    "timeMonth": 1073,
+    "timeYear": 1073,
     "dailyMinutesDown": {
-      "2022-11-18": 0
+      "2022-11-18": 2
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 1113,
-    "timeDay": 1113,
-    "timeWeek": 1113,
-    "timeMonth": 1113,
-    "timeYear": 1113,
+    "uptime": "95.46%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "95.46%",
+    "uptimeMonth": "95.46%",
+    "uptimeYear": "95.46%",
+    "time": 1073,
+    "timeDay": 1073,
+    "timeWeek": 1073,
+    "timeMonth": 1073,
+    "timeYear": 1073,
     "dailyMinutesDown": {
-      "2022-11-18": 0
+      "2022-11-18": 2
     }
   },
   {
@@ -45,38 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 1113,
-    "timeDay": 1113,
-    "timeWeek": 1113,
-    "timeMonth": 1113,
-    "timeYear": 1113,
+    "uptime": "95.43%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "95.43%",
+    "uptimeYear": "95.43%",
+    "time": 1073,
+    "timeDay": 1073,
+    "timeWeek": 1073,
+    "timeMonth": 1073,
+    "timeYear": 1073,
     "dailyMinutesDown": {
-      "2022-11-18": 0
-    }
-  },
-  {
-    "name": "test",
-    "url": "http://localhost:8001/api/v2/ping/dhlee",
-    "icon": "https://icons.duckduckgo.com/ip3/localhost.ico",
-    "slug": "test",
-    "status": "down",
-    "uptime": "3.80%",
-    "uptimeDay": "3.80%",
-    "uptimeWeek": "3.80%",
-    "uptimeMonth": "3.80%",
-    "uptimeYear": "3.80%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-11-18": 0
+      "2022-11-18": 2
     }
   }
 ]
