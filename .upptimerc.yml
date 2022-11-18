@@ -4,13 +4,13 @@ repo: upptime
 
 sites:
   - name: 김천
-    url: https://public.riaas.ai/api/v2/ping/dhlee
+    url: $GIMCHEON_URL
     maxResponseTime: 3000
   - name: 광주
-    url: https://gwangju.riaas.ai/api/v2/ping/dhlee
+    url: $GWANGJU_URL
     maxResponseTime: 3000
   - name: 구독
-    url: https://korea.riaas.ai/api/v2/ping/dhlee
+    url: $KOREA_URL
     maxResponseTime: 3000
 
 status-website:
