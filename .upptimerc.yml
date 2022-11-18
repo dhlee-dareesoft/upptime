@@ -12,9 +12,6 @@ sites:
   - name: 구독
     url: $KOREA_URL
     maxResponseTime: 3000
-  - name: test
-    url: https//public.riaas.ai/api/v2/test
-    maxResponseTime: 3000
 
 status-website:
   #cname: demo.upptime.js.org
