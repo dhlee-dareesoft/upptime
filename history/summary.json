@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "95.46%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "95.46%",
-    "uptimeMonth": "95.46%",
-    "uptimeYear": "95.46%",
-    "time": 1073,
-    "timeDay": 1073,
-    "timeWeek": 1073,
-    "timeMonth": 1073,
-    "timeYear": 1073,
+    "uptime": "91.15%",
+    "uptimeDay": "91.15%",
+    "uptimeWeek": "91.15%",
+    "uptimeMonth": "91.15%",
+    "uptimeYear": "91.15%",
+    "time": 1053,
+    "timeDay": 1053,
+    "timeWeek": 1053,
+    "timeMonth": 1053,
+    "timeYear": 1053,
     "dailyMinutesDown": {
-      "2022-11-18": 2
+      "2022-11-18": 5
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "95.46%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "95.46%",
-    "uptimeMonth": "95.46%",
-    "uptimeYear": "95.46%",
-    "time": 1073,
-    "timeDay": 1073,
-    "timeWeek": 1073,
-    "timeMonth": 1073,
-    "timeYear": 1073,
+    "uptime": "91.12%",
+    "uptimeDay": "91.12%",
+    "uptimeWeek": "91.12%",
+    "uptimeMonth": "91.12%",
+    "uptimeYear": "91.12%",
+    "time": 1053,
+    "timeDay": 1053,
+    "timeWeek": 1053,
+    "timeMonth": 1053,
+    "timeYear": 1053,
     "dailyMinutesDown": {
-      "2022-11-18": 2
+      "2022-11-18": 5
     }
   },
   {
@@ -45,18 +45,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "95.43%",
-    "uptimeDay": "95.43%",
-    "uptimeWeek": "95.43%",
-    "uptimeMonth": "95.43%",
-    "uptimeYear": "95.43%",
-    "time": 1073,
-    "timeDay": 1073,
-    "timeWeek": 1073,
-    "timeMonth": 1073,
-    "timeYear": 1073,
+    "uptime": "91.12%",
+    "uptimeDay": "91.12%",
+    "uptimeWeek": "91.12%",
+    "uptimeMonth": "91.12%",
+    "uptimeYear": "91.12%",
+    "time": 1053,
+    "timeDay": 1053,
+    "timeWeek": 1053,
+    "timeMonth": 1053,
+    "timeYear": 1053,
     "dailyMinutesDown": {
-      "2022-11-18": 2
+      "2022-11-18": 5
+    }
+  },
+  {
+    "name": "test",
+    "url": "https//public.riaas.ai/api/v2/test",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "test",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-11-18": 5
     }
   }
 ]
