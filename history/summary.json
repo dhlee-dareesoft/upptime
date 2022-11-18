@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1107,
-    "timeDay": 1107,
-    "timeWeek": 1107,
-    "timeMonth": 1107,
-    "timeYear": 1107,
-    "dailyMinutesDown": {}
+    "uptime": "99.80%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1113,
+    "timeDay": 1113,
+    "timeWeek": 1113,
+    "timeMonth": 1113,
+    "timeYear": 1113,
+    "dailyMinutesDown": {
+      "2022-11-18": 0
+    }
   },
   {
     "name": "광주",
@@ -23,17 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1107,
-    "timeDay": 1107,
-    "timeWeek": 1107,
-    "timeMonth": 1107,
-    "timeYear": 1107,
-    "dailyMinutesDown": {}
+    "uptime": "99.80%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1113,
+    "timeDay": 1113,
+    "timeWeek": 1113,
+    "timeMonth": 1113,
+    "timeYear": 1113,
+    "dailyMinutesDown": {
+      "2022-11-18": 0
+    }
   },
   {
     "name": "구독",
@@ -41,16 +45,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1107,
-    "timeDay": 1107,
-    "timeWeek": 1107,
-    "timeMonth": 1107,
-    "timeYear": 1107,
-    "dailyMinutesDown": {}
+    "uptime": "99.77%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 1113,
+    "timeDay": 1113,
+    "timeWeek": 1113,
+    "timeMonth": 1113,
+    "timeYear": 1113,
+    "dailyMinutesDown": {
+      "2022-11-18": 0
+    }
+  },
+  {
+    "name": "test",
+    "url": "http://localhost:8001/api/v2/ping/dhlee",
+    "icon": "https://icons.duckduckgo.com/ip3/localhost.ico",
+    "slug": "test",
+    "status": "down",
+    "uptime": "9.50%",
+    "uptimeDay": "9.50%",
+    "uptimeWeek": "9.50%",
+    "uptimeMonth": "9.50%",
+    "uptimeYear": "9.50%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-11-18": 0
+    }
   }
 ]
