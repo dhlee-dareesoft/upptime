@@ -14,7 +14,6 @@ sites:
     maxResponseTime: 3000
 
 status-website:
-  #cname: demo.upptime.js.org
-  cname: dhlee.github.io/upptime
+  cname: dhlee-dareesoft.github.io/upptime
   #baseUrl: /upptime
   name: Upptime
