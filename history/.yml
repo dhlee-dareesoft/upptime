@@ -1,7 +1,7 @@
-url: https://public.riaas.ai/api/v2/ping/dhlee
+url: https://gwangju.riaas.ai/api/v2/ping/dhlee
 status: up
 code: 200
-responseTime: 1038
-lastUpdated: 2022-11-18T09:22:56.354Z
+responseTime: 1491
+lastUpdated: 2022-11-18T09:22:58.167Z
 startTime: Fri Nov 18 2022 09:17:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
