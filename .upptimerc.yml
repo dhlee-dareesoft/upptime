@@ -12,9 +12,6 @@ sites:
   - name: 구독
     url: $KOREA_URL
     maxResponseTime: 3000
-  - name: 에러
-    url: http://localhost:8001
-    maxResponseTime: 3000
 
 status-website:
   #cname: dhlee-dareesoft.github.io/upptime
