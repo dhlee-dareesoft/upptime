@@ -12,6 +12,9 @@ sites:
   - name: 구독
     url: $KOREA_URL
     maxResponseTime: 3000
+  - name: test
+    url: http://localhost:8001/api/v2/ping/dhlee
+    maxResponseTime: 3000
 
 status-website:
   #cname: demo.upptime.js.org
