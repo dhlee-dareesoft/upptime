@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "down",
-    "uptime": "78.65%",
-    "uptimeDay": "78.65%",
-    "uptimeWeek": "78.65%",
-    "uptimeMonth": "78.65%",
-    "uptimeYear": "78.65%",
-    "time": 1098,
-    "timeDay": 1098,
-    "timeWeek": 1098,
-    "timeMonth": 1098,
-    "timeYear": 1098,
-    "dailyMinutesDown": {
-      "2022-11-18": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1102,
+    "timeDay": 1102,
+    "timeWeek": 1102,
+    "timeMonth": 1102,
+    "timeYear": 1102,
+    "dailyMinutesDown": {}
   },
   {
     "name": "광주",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "down",
-    "uptime": "78.65%",
-    "uptimeDay": "78.65%",
-    "uptimeWeek": "78.65%",
-    "uptimeMonth": "78.65%",
-    "uptimeYear": "78.65%",
-    "time": 1098,
-    "timeDay": 1098,
-    "timeWeek": 1098,
-    "timeMonth": 1098,
-    "timeYear": 1098,
-    "dailyMinutesDown": {
-      "2022-11-18": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1102,
+    "timeDay": 1102,
+    "timeWeek": 1102,
+    "timeMonth": 1102,
+    "timeYear": 1102,
+    "dailyMinutesDown": {}
   },
   {
     "name": "구독",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "down",
-    "uptime": "78.65%",
-    "uptimeDay": "78.65%",
-    "uptimeWeek": "78.65%",
-    "uptimeMonth": "78.65%",
-    "uptimeYear": "78.65%",
-    "time": 1098,
-    "timeDay": 1098,
-    "timeWeek": 1098,
-    "timeMonth": 1098,
-    "timeYear": 1098,
-    "dailyMinutesDown": {
-      "2022-11-18": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1102,
+    "timeDay": 1102,
+    "timeWeek": 1102,
+    "timeMonth": 1102,
+    "timeYear": 1102,
+    "dailyMinutesDown": {}
   },
   {
     "name": "에러",
@@ -65,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/localhost.ico",
     "slug": "",
     "status": "down",
-    "uptime": "78.66%",
-    "uptimeDay": "78.66%",
-    "uptimeWeek": "78.66%",
-    "uptimeMonth": "78.66%",
-    "uptimeYear": "78.66%",
-    "time": 1098,
-    "timeDay": 1098,
-    "timeWeek": 1098,
-    "timeMonth": 1098,
-    "timeYear": 1098,
-    "dailyMinutesDown": {
-      "2022-11-18": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1102,
+    "timeDay": 1102,
+    "timeWeek": 1102,
+    "timeMonth": 1102,
+    "timeYear": 1102,
+    "dailyMinutesDown": {}
   }
 ]
