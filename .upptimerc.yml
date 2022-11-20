@@ -16,4 +16,4 @@ sites:
 status-website:
   #cname: dhlee-dareesoft.github.io/upptime
   baseUrl: /upptime
-  name: Upptime
+  name: upptime
