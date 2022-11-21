@@ -1,7 +1,7 @@
-url: $GWANGJU_URL
-status: down
-code: 502
-responseTime: 1012
-lastUpdated: 2022-11-21T05:32:33.303Z
+url: $KOREA_URL
+status: up
+code: 200
+responseTime: 842
+lastUpdated: 2022-11-21T05:32:35.427Z
 startTime: Fri Nov 18 2022 09:17:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
