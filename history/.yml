@@ -1,7 +1,7 @@
-url: $GIMCHEON_URL
+url: $GWANGJU_URL
 status: up
 code: 200
-responseTime: 922
-lastUpdated: 2023-11-03T23:00:35.800Z
+responseTime: 712
+lastUpdated: 2023-11-03T23:00:36.761Z
 startTime: 2022-11-18T09:17:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
