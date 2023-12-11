@@ -1,7 +1,7 @@
-url: $KOREA_URL
+url: $GIMCHEON_URL
 status: up
 code: 200
-responseTime: 925
-lastUpdated: 2023-12-10T23:00:32.972Z
+responseTime: 840
+lastUpdated: 2023-12-11T23:00:32.313Z
 startTime: 2022-11-18T09:17:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
