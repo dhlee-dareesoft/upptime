@@ -12,6 +12,9 @@ sites:
   - name: 구독
     url: $KOREA_URL
     maxResponseTime: 3000
+  - name : redact
+    url : http://223.130.129.133:8787/services/v3/status
+    maxResponseTime: 3000
 
 status-website:
   #cname: dhlee-dareesoft.github.io/upptime
