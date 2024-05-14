@@ -15,6 +15,9 @@ sites:
   - name : redact
     url : http://223.130.129.133:8787/services/v3/status
     maxResponseTime: 3000
+  - name : prestd
+    url : https://korea.riaas.ai/prest/schemas
+    maxResponseTime: 3000
 
 status-website:
   #cname: dhlee-dareesoft.github.io/upptime
