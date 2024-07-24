@@ -24,7 +24,7 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,9 +33,7 @@
     "timeWeek": 216,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {
-      "2024-07-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "광주 WEB",
@@ -62,7 +60,7 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,9 +69,7 @@
     "timeWeek": 216,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {
-      "2024-07-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "구독 WEB",
@@ -100,7 +96,7 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,9 +105,7 @@
     "timeWeek": 216,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {
-      "2024-07-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "redact",
