@@ -22,19 +22,19 @@
     "url": "https://public.riaas.ai/api/v2/customers/1",
     "icon": "https://icons.duckduckgo.com/ip3/public.riaas.ai.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "90.91%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "90.31%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 219,
-    "timeDay": 209,
-    "timeWeek": 213,
+    "timeDay": 210,
+    "timeWeek": 214,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-07-25": 131
+      "2024-07-25": 140
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://gwangju.riaas.ai/api/v2/customers/1",
     "icon": "https://icons.duckduckgo.com/ip3/gwangju.riaas.ai.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "90.91%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "90.31%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 219,
-    "timeDay": 209,
-    "timeWeek": 213,
+    "timeDay": 210,
+    "timeWeek": 214,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-07-25": 131
+      "2024-07-25": 140
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://korea.riaas.ai/api/v2/customers/1",
     "icon": "https://icons.duckduckgo.com/ip3/korea.riaas.ai.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "90.91%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "90.31%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 219,
-    "timeDay": 209,
-    "timeWeek": 213,
+    "timeDay": 210,
+    "timeWeek": 214,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-07-25": 131
+      "2024-07-25": 140
     }
   },
   {
