@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 911,
-    "timeWeek": 877,
-    "timeMonth": 952,
-    "timeYear": 952,
+    "time": 940,
+    "timeDay": 742,
+    "timeWeek": 860,
+    "timeMonth": 940,
+    "timeYear": 940,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/public.riaas.ai.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "91.14%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 220,
-    "timeDay": 213,
-    "timeWeek": 214,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "uptime": "99.42%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 219,
+    "timeDay": 209,
+    "timeWeek": 213,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-07-25": 128
+      "2024-07-25": 131
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 911,
-    "timeWeek": 877,
-    "timeMonth": 952,
-    "timeYear": 952,
+    "time": 940,
+    "timeDay": 742,
+    "timeWeek": 860,
+    "timeMonth": 940,
+    "timeYear": 940,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gwangju.riaas.ai.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 220,
-    "timeDay": 213,
-    "timeWeek": 214,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "uptime": "99.42%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 219,
+    "timeDay": 209,
+    "timeWeek": 213,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-07-25": 128
+      "2024-07-25": 131
     }
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 911,
-    "timeWeek": 877,
-    "timeMonth": 952,
-    "timeYear": 952,
+    "time": 940,
+    "timeDay": 742,
+    "timeWeek": 860,
+    "timeMonth": 940,
+    "timeYear": 940,
     "dailyMinutesDown": {}
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/korea.riaas.ai.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 220,
-    "timeDay": 213,
-    "timeWeek": 214,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "uptime": "99.42%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 219,
+    "timeDay": 209,
+    "timeWeek": 213,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-07-25": 128
+      "2024-07-25": 131
     }
   },
   {
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
-    "time": 541,
-    "timeDay": 307,
-    "timeWeek": 337,
-    "timeMonth": 397,
-    "timeYear": 541,
+    "time": 539,
+    "timeDay": 381,
+    "timeWeek": 343,
+    "timeMonth": 396,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2024-07-02": 48
     }
@@ -145,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 203,
-    "timeWeek": 176,
-    "timeMonth": 185,
+    "timeDay": 135,
+    "timeWeek": 171,
+    "timeMonth": 183,
     "timeYear": 178,
     "dailyMinutesDown": {}
   }
