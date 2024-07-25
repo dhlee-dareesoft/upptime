@@ -22,18 +22,20 @@
     "url": "https://public.riaas.ai/api/v2/customers/1",
     "icon": "https://icons.duckduckgo.com/ip3/public.riaas.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 250,
+    "time": 223,
+    "timeDay": 235,
     "timeWeek": 216,
-    "timeMonth": 224,
-    "timeYear": 224,
-    "dailyMinutesDown": {}
+    "timeMonth": 223,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2024-07-25": 0
+    }
   },
   {
     "name": "광주 WEB",
@@ -58,18 +60,20 @@
     "url": "https://gwangju.riaas.ai/api/v2/customers/1",
     "icon": "https://icons.duckduckgo.com/ip3/gwangju.riaas.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 250,
+    "time": 223,
+    "timeDay": 235,
     "timeWeek": 216,
-    "timeMonth": 224,
-    "timeYear": 224,
-    "dailyMinutesDown": {}
+    "timeMonth": 223,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2024-07-25": 0
+    }
   },
   {
     "name": "구독 WEB",
@@ -94,18 +98,20 @@
     "url": "https://korea.riaas.ai/api/v2/customers/1",
     "icon": "https://icons.duckduckgo.com/ip3/korea.riaas.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 250,
+    "time": 223,
+    "timeDay": 235,
     "timeWeek": 216,
-    "timeMonth": 224,
-    "timeYear": 224,
-    "dailyMinutesDown": {}
+    "timeMonth": 223,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2024-07-25": 0
+    }
   },
   {
     "name": "redact",
