@@ -1,7 +1,7 @@
-url: https://korea.riaas.ai/api/v2/customers/1
+url: https://public.riaas.ai/api/v2/customers/1
 status: up
 code: 200
-responseTime: 150
-lastUpdated: 2024-11-09T23:13:53.849Z
+responseTime: 262
+lastUpdated: 2024-11-10T23:14:07.892Z
 startTime: 2024-07-10T06:18:02.365Z
 generator: Upptime <https://github.com/upptime/upptime>
