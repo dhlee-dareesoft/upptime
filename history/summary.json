@@ -4,19 +4,19 @@
     "url": "https://public.riaas.ai",
     "icon": "https://icons.duckduckgo.com/ip3/public.riaas.ai.ico",
     "slug": "web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 924,
-    "timeDay": 681,
-    "timeWeek": 924,
+    "timeDay": 734,
+    "timeWeek": 922,
     "timeMonth": 915,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2025-01-08": 0
+      "2025-01-08": 23
     }
   },
   {
@@ -49,19 +49,19 @@
     "url": "https://gwangju.riaas.ai",
     "icon": "https://icons.duckduckgo.com/ip3/gwangju.riaas.ai.ico",
     "slug": "web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 924,
-    "timeDay": 681,
-    "timeWeek": 924,
+    "timeDay": 734,
+    "timeWeek": 922,
     "timeMonth": 915,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2025-01-08": 0
+      "2025-01-08": 23
     }
   },
   {
@@ -94,19 +94,19 @@
     "url": "https://korea.riaas.ai",
     "icon": "https://icons.duckduckgo.com/ip3/korea.riaas.ai.ico",
     "slug": "web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 924,
-    "timeDay": 681,
-    "timeWeek": 924,
+    "timeDay": 734,
+    "timeWeek": 922,
     "timeMonth": 915,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2025-01-08": 0
+      "2025-01-08": 23
     }
   },
   {
