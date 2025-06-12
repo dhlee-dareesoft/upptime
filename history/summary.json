@@ -6,9 +6,9 @@
     "slug": "web",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.97%",
     "time": 910,
     "timeDay": 355,
@@ -16,7 +16,7 @@
     "timeMonth": 888,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2025-06-12": 70,
+      "2025-06-12": 85,
       "2025-05-06": 38,
       "2025-01-08": 23
     }
@@ -26,9 +26,9 @@
     "url": "https://public.riaas.ai/api/v2/customers/1",
     "icon": "https://icons.duckduckgo.com/ip3/public.riaas.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.20%",
+    "uptimeDay": "98.16%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.89%",
@@ -38,7 +38,7 @@
     "timeMonth": 216,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-06-12": 26,
+      "2025-06-12": 27,
       "2025-05-11": 32,
       "2025-05-07": 35,
       "2025-03-16": 32,
@@ -59,9 +59,9 @@
     "slug": "web",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.97%",
     "time": 910,
     "timeDay": 355,
@@ -69,7 +69,7 @@
     "timeMonth": 888,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2025-06-12": 70,
+      "2025-06-12": 85,
       "2025-05-06": 38,
       "2025-01-08": 23
     }
@@ -79,9 +79,9 @@
     "url": "https://gwangju.riaas.ai/api/v2/customers/1",
     "icon": "https://icons.duckduckgo.com/ip3/gwangju.riaas.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.20%",
+    "uptimeDay": "98.15%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.89%",
@@ -91,7 +91,7 @@
     "timeMonth": 216,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-06-12": 26,
+      "2025-06-12": 27,
       "2025-05-11": 32,
       "2025-05-07": 35,
       "2025-03-16": 32,
@@ -112,9 +112,9 @@
     "slug": "web",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "95.12%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.97%",
     "time": 910,
     "timeDay": 355,
@@ -122,7 +122,7 @@
     "timeMonth": 888,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2025-06-12": 70,
+      "2025-06-12": 85,
       "2025-05-06": 38,
       "2025-01-08": 23
     }
@@ -132,10 +132,10 @@
     "url": "https://korea.riaas.ai/api/v2/customers/1",
     "icon": "https://icons.duckduckgo.com/ip3/korea.riaas.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.89%",
     "time": 228,
@@ -144,7 +144,7 @@
     "timeMonth": 216,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-06-12": 26,
+      "2025-06-12": 27,
       "2025-05-11": 32,
       "2025-05-07": 35,
       "2025-03-16": 32,
@@ -183,9 +183,9 @@
     "url": "https://korea.riaas.ai/prest/schemas",
     "icon": "https://icons.duckduckgo.com/ip3/korea.riaas.ai.ico",
     "slug": "prestd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -195,6 +195,7 @@
     "timeMonth": 169,
     "timeYear": 177,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2024-12-25": 106
     }
   }
