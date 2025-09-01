@@ -3,18 +3,18 @@ owner: dhlee-dareesoft
 repo: upptime
 
 sites:
-  - name: 김천 WEB
-    url: https://public.riaas.ai
-    maxResponseTime: 3000
-  - name: 김천 API
-    url: https://public.riaas.ai/api/v2/customers/1
-    maxResponseTime: 3000
-  - name: 광주 WEB
-    url: https://gwangju.riaas.ai
-    maxResponseTime: 3000
-  - name: 광주 API
-    url: https://gwangju.riaas.ai/api/v2/customers/1
-    maxResponseTime: 3000
+#  - name: 김천 WEB
+#    url: https://public.riaas.ai
+#    maxResponseTime: 3000
+#  - name: 김천 API
+#    url: https://public.riaas.ai/api/v2/customers/1
+#    maxResponseTime: 3000
+#  - name: 광주 WEB
+#    url: https://gwangju.riaas.ai
+#    maxResponseTime: 3000
+#  - name: 광주 API
+#    url: https://gwangju.riaas.ai/api/v2/customers/1
+#    maxResponseTime: 3000
   - name: 구독 WEB
     url: https://korea.riaas.ai
     maxResponseTime: 3000
