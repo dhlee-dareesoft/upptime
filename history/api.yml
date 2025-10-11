@@ -1,7 +1,7 @@
 url: https://korea.riaas.ai/api/v2/customers/1
-status: down
-code: 502
-responseTime: 184
-lastUpdated: 2025-10-11T18:00:10.663Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2025-10-11T18:30:59.958Z
 startTime: 2024-07-10T06:18:02.365Z
 generator: Upptime <https://github.com/upptime/upptime>
