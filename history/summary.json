@@ -81,18 +81,19 @@
     "url": "http://35.222.58.120:8787/services/v3/status",
     "icon": "https://icons.duckduckgo.com/ip3/35.222.58.120.ico",
     "slug": "redact",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 355,
+    "time": 354,
     "timeDay": 330,
     "timeWeek": 334,
     "timeMonth": 354,
     "timeYear": 352,
     "dailyMinutesDown": {
+      "2026-01-07": 0,
       "2025-06-26": 27
     }
   },
