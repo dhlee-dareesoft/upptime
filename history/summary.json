@@ -35,17 +35,17 @@
     "url": "https://korea.riaas.ai/api/v2/customers/1",
     "icon": "https://icons.duckduckgo.com/ip3/korea.riaas.ai.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.59%",
-    "time": 312,
-    "timeDay": 1916,
-    "timeWeek": 1123,
-    "timeMonth": 964,
-    "timeYear": 326,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "90.53%",
+    "uptimeWeek": "95.66%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.57%",
+    "time": 313,
+    "timeDay": 1745,
+    "timeWeek": 1148,
+    "timeMonth": 976,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-06-12": 41,
       "2025-06-17": 207,
@@ -78,7 +78,7 @@
       "2026-04-28": 77,
       "2026-04-27": 9,
       "2026-06-01": 301,
-      "2026-06-04": 0
+      "2026-06-04": 136
     }
   },
   {
