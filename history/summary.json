@@ -84,9 +84,9 @@
     "url": "http://35.222.58.120:8787/services/v3/status",
     "icon": "https://icons.duckduckgo.com/ip3/35.222.58.120.ico",
     "slug": "redact",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
@@ -102,7 +102,8 @@
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
-      "2026-01-07": 633
+      "2026-01-07": 633,
+      "2026-07-08": 0
     }
   },
   {
