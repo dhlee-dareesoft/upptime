@@ -4,11 +4,11 @@
     "url": "https://korea.riaas.ai",
     "icon": "https://icons.duckduckgo.com/ip3/korea.riaas.ai.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
     "time": 1018,
     "timeDay": 904,
@@ -26,7 +26,8 @@
       "2025-10-19": 23,
       "2025-11-23": 66,
       "2026-01-22": 25,
-      "2026-07-05": 189
+      "2026-07-05": 189,
+      "2026-08-07": 10
     }
   },
   {
@@ -34,11 +35,11 @@
     "url": "https://korea.riaas.ai/api/v2/customers/1",
     "icon": "https://icons.duckduckgo.com/ip3/korea.riaas.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "93.35%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "98.50%",
+    "uptimeDay": "92.99%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "98.49%",
     "uptimeYear": "99.47%",
     "time": 406,
     "timeDay": 2685,
@@ -77,7 +78,7 @@
       "2026-07-05": 184,
       "2026-07-09": 376,
       "2026-07-30": 186,
-      "2026-08-07": 96
+      "2026-08-07": 101
     }
   },
   {
@@ -86,11 +87,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/35.222.58.120.ico",
     "slug": "redact",
     "status": "down",
-    "uptime": "95.82%",
+    "uptime": "95.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.25%",
-    "uptimeYear": "90.35%",
+    "uptimeMonth": "0.40%",
+    "uptimeYear": "90.20%",
     "time": 359,
     "timeDay": 0,
     "timeWeek": 0,
@@ -104,7 +105,7 @@
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 633,
-      "2026-08-07": 197,
+      "2026-08-07": 1004,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -142,9 +143,9 @@
     "url": "https://korea.riaas.ai/prest/schemas",
     "icon": "https://icons.duckduckgo.com/ip3/korea.riaas.ai.ico",
     "slug": "prestd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -163,7 +164,8 @@
       "2025-10-19": 22,
       "2025-11-23": 64,
       "2026-05-18": 78,
-      "2026-07-05": 179
+      "2026-07-05": 179,
+      "2026-08-07": 0
     }
   }
 ]
